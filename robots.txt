@@ -1,0 +1,5 @@
+﻿user-agent: *
+disallow: php mailer
+disallow: font-awesome
+disallow: css
+disallow: js
